@@ -17,4 +17,4 @@ for (let x = 1; x < s.length + 1; x++) {
 return anagrams;
 }
 
-sherlockAndAnagrams('radar');
+sherlockAndAnagrams('madamimadam');
